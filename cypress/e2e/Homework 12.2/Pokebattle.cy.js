@@ -2,8 +2,8 @@ describe('ПРОВЕРКА ПОКУПКИ НОВОГО АВАТАРА', function
   it('ТЕСТ ПОКУПКИ НОВОГО АВАТАРА', function () {
 
     cy.visit('https://pokemonbattle.ru/'); // Открыл сайт
-    cy.get('#k_email').type('okzex1@yandex.ru'); // Ввел верный логин
-    cy.get('#k_password').type('Yandex585'); // Ввел верный пароль
+    cy.get('#k_email').type('USER_LOGIN'); // Ввел верный логин
+    cy.get('#k_password').type('USER_PASSWORD'); // Ввел верный пароль
     cy.get('.MuiButton-root').should('be.visible'); // Кнопка войти видна пользователю
     cy.get('.MuiButton-root').click(); // Нажал кнопку войти
 
