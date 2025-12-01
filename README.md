@@ -23,7 +23,7 @@
 ![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/QAAlexeyTaranenko/new_cypress/main/static/user_data.png)
+![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/User%20data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/QAAlexeyTaranenko/new_cypress/main/static/locators.png)
