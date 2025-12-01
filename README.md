@@ -20,10 +20,10 @@
 ![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/BaseURL.png)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/hooks.png)
+![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/Hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/User%20data.png)
+![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/User%20Data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://github.com/QAAlexeyTaranenko/cypress.js/blob/main/locators.png)
